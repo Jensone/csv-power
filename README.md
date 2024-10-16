@@ -36,3 +36,13 @@ $form.Controls.Add($dataGridView) # Ajouter à la fenêtre de l'application
 `.Controls.Add($dataGridView)` ajoute le tableau de données à la fenêtre.
 
 ## Ajout du bouton d'importation
+
+
+
+
+
+---
+
+Ressources :
+
+https://learn.microsoft.com/fr-fr/dotnet/api/
